@@ -1,0 +1,19 @@
+.tableArea{
+    margin-top: 50px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-spacing: 15px;
+  }
+  table th{
+     background-color: #dddddd;
+  }
+
+  td, th { 
+    text-align: left;
+    width: 800px;
+    padding: 10px;
+  }
+ 
